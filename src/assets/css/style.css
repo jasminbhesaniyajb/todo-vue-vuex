@@ -1,0 +1,7 @@
+.border-radius-5 {
+    border-radius: 5px;
+}
+.v-chip-color {
+    border-radius: unset !important;
+    background: none !important;
+}
